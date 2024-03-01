@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">st10053116_ICE_Task_1</string>
+    <string name="English">Hello World</string>
+    <string name="Spanish">Hola Mundo</string>
+    <string name="French">Bonjour le monde</string>
+    <string name="Italian">Ciao mondo</string>
+    <string name="Russian">Привет,мир</string>
+</resources>
